@@ -1,0 +1,8 @@
+<script>start("/Users/mani/Downloads/4.3 HTML Porfolio Project/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,96,"96 B",1743444175,"31/03/2025, 23:32:55");</script>
+<script>addRow("public","public",1,192,"192 B",1743444175,"31/03/2025, 23:32:55");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1743509164,"01/04/2025, 17:36:04");</script>
+<script>addRow("goal.png","goal.png",0,1275138,"1.2 MB",1675151632,"31/01/2023, 13:23:52");</script>
+<script>addRow("index.html","index.html",0,757,"757 B",1743446507,"01/04/2025, 00:11:47");</script>
+<script>addRow("solution.html","solution.html",0,664,"664 B",1675319388,"02/02/2023, 11:59:48");</script>
